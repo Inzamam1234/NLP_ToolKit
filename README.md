@@ -32,3 +32,15 @@ The model is fine-tuned using **Parameter-Efficient Fine-Tuning (PEFT)** techniq
   - Grammar Correction → trained on incorrect vs. corrected text datasets.  
 
 ---
+## 📊 Results  
+- **Summarization:** Generates concise summaries of long text.  
+- **Paraphrasing:** Produces meaning-preserving rephrased sentences.  
+- **Grammar Correction:** Corrects grammatical errors in input text.  
+
+
+---
+
+## 🔮 Future Work  
+- Extend toolkit to handle more tasks (e.g., style transfer, question generation).  
+- Provide a simple **Streamlit web interface** for real-time demos.  
+- Experiment with larger models (e.g., T5-large, Flan-T5). 
